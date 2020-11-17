@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 body {
   font-family: "Nunito Sans", sans-serif;
   font-size: 18px;
@@ -210,85 +209,9 @@ button.btn {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-/* .mb0 {
-  margin-bottom: 0;
-}
-.mb10 {
-  margin-bottom: 10px;
-}
-.mb20 {
-  margin-bottom: 20px;
-}
-.mb30 {
-  margin-bottom: 30px;
-}
-.mb35 {
-  margin-bottom: 35px;
-}
-.mb40 {
-  margin-bottom: 40px;
-}
-.mb60 {
-  margin-bottom: 60px;
-}
-.mb80 {
-  margin-bottom: 80px;
-}
-.mb100 {
-  margin-bottom: 100px;
-}
-.mb130 {
-  margin-bottom: 130px;
-}
-.mt0 {
-  margin-top: 0;
-}
-.mt10 {
-  margin-top: 10px;
-}
-.mt20 {
-  margin-top: 20px;
-}
-.mt30 {
-  margin-top: 30px;
-}
-.mt40 {
-  margin-top: 40px;
-}
-.mt60 {
-  margin-top: 60px;
-}
-.mt70 {
-  margin-top: 70px;
-}
-.mt80 {
-  margin-top: 80px;
-}
-.mt100 {
-  margin-top: 100px;
-}
-.mt-20 {
-  margin-top: -20px;
-}
-.mt-40 {
-  margin-top: -40px;
-}
-.mt-60 {
-  margin-top: -60px;
-}
-.mt-80 {
-  margin-top: -80px;
-} */
 .bg-light {
   background-color: #f9f9f9;
 }
-/* .bg-primary {
-  background-color: #ffe62c;
-  color: #fff;
-}
-.bg-white {
-  background-color: #fff;
-} */
 .section-title {
   margin-bottom: 50px;
   text-align: center;
@@ -383,30 +306,6 @@ img {
 .imghover:hover::after {
   color: #fff;
 }
-/* .icon-1x {
-  font-size: 18px;
-}
-.icon-2x {
-  font-size: 38px;
-}
-.icon-4x {
-  font-size: 65px;
-}
-.icon-6x {
-  font-size: 88px;
-}
-.icon-8x {
-  font-size: 108px;
-} */
-/* .icon-default {
-  color: #aa9144;
-}
-.icon-primary {
-  color: #474954;
-}
-.icon-white {
-  color: #fff;
-} */
 .header-wrapper {
   z-index: 9;
   position: relative;
@@ -418,7 +317,6 @@ img {
 .header-btn {
   margin-top: 7px;
 }
-
 .page-header {
   background-color: #f2f2f2;
   background-size: cover;
@@ -444,7 +342,6 @@ img {
   font-size: 18px;
   font-style: italic;
 }
-
 .profile {
   bottom: -20px;
   position: absolute;
@@ -799,7 +696,6 @@ a:active {
   padding-left: 0;
   margin: 20px 0;
 }
-
 .related-post-block {
   border-bottom: 1px solid #ededed;
   border-top: 1px solid #ededed;
@@ -895,8 +791,6 @@ a:active {
   width: 100%;
   height: 400px;
 }
-
 .panel-group .panel-heading + .panel-collapse > .panel-body {
   border-bottom: 1px solid #e5e5e5;
 }
-

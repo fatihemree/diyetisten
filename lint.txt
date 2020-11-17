@@ -7,3 +7,5 @@ https://dashboard.heroku.com/apps/meris-diet/deploy/github
 https://meris-diet.herokuapp.com/
 
 https://chrome.google.com/webstore/detail/discoverage/bagpgeanndnifdbdacmckipibgkbkpdp/related
+
+https://purifycss.online/
