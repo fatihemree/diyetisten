@@ -1,0 +1,67 @@
+/*--------------------------------
+14. Accodrion 
+----------------------------------*/
+
+.st-accordion .panel {
+  box-shadow: none;
+}
+.st-accordion .sign {
+  color: #a0729a;
+  padding: 0 2px;
+  position: absolute;
+  left: -30px;
+  top: 2px;
+}
+.st-accordion .accordion .panel-heading.active .sign {
+  color: #a0729a;
+}
+.st-accordion .panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  color: #393538;
+  position: relative;
+  font-weight: 500;
+}
+.sign {
+  color: #a0729a;
+  padding: 0 2px;
+  top: 6px;
+}
+.st-accordion .panel-heading.active .sign {
+  color: #a0729a;
+}
+.st-accordion .panel {
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: 1px solid #e4e9ea;
+  border-radius: 0px;
+}
+.st-accordion .panel-default {
+  border-color: transparent;
+}
+.st-accordion .panel-group .panel {
+  margin-bottom: 10px;
+  border-radius: 0px;
+  border-bottom: 1px solid #ededed;
+}
+.st-accordion .panel-default > .panel-heading {
+  color: #323734;
+  background-color: transparent;
+  border-bottom: 1px solid #e4e9ea;
+  padding: 30px 0px;
+}
+.st-accordion .panel-group .panel-heading + .panel-collapse > .list-group,
+.st-accordion .panel-group .panel-heading + .panel-collapse > .panel-body {
+  border-bottom: 1px solid #e5e5e5;
+}
+.st-accordion .panel-body {
+  padding: 30px 0px;
+}
+.st-accordion .panel-body p:last-child {
+  margin-bottom: 0px;
+}
+.st-accordion .panel-group .panel-heading + .panel-collapse > .list-group,
+.panel-group .panel-heading + .panel-collapse > .panel-body {
+  border-bottom: 1px solid #e5e5e5;
+}
